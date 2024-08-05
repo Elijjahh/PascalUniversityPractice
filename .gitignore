@@ -1,0 +1,3 @@
+*.o
+*.ppu
+.DS_Store
